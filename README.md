@@ -35,15 +35,6 @@ The report should be no longer than 6 pages (NOT including references) and forma
 
 Create a [pull request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to enable a review of your code by a colleague in the class.
 
-You can do this by:
-1. View your repository in a web browser.
-2. Click the "Edit file" icon for the `README.md` file.
-3. Make a small edit to the file. For example, add a line at the bottom that says "Edit for final PR."
-4. Click the "Commit changes..." button.
-5. MAKE SURE TO SELECT THE "Create a new branch for this commit and start a pull request" option.
-6. Click the "Propose changes" button.
-7. Click the "Create pull request" button.
-8. Click the "Create pull request" button again on the next page.
 
 ## Resources
 
